@@ -1,1 +1,6 @@
-https://docs.google.com/forms/d/e/1FAIpQLSeGz9_UPgikrBpZJ-ECmG7hrdFE3EdA-Tua7CJ_JwDcLv6bCw/viewform
+AWS cloud practitioner
+Aws cloud developer associate
+Microsft AZ-900
+Microsoft AZ-204
+Google cloud digital leader
+Google associate cloud engineer
